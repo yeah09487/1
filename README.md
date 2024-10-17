@@ -1,8 +1,13 @@
 <!DOCTYPE html>
-<html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>湯匙圖片</title>
 </head>
-<boby>
-<h1>花火真香
-</boby>
-</head>
+<body>
+    <h1>這是一個帶有湯匙圖片的網頁</h1>
+    <img src="[https://example.com/spoon.jpg](https://down-tw.img.susercontent.com/file/tw-11134258-7rasj-m178nx5i0yav72)" alt="湯匙圖片" width="300">
+    <p>這裡展示了一個湯匙的圖片。</p>
+</body>
 </html>
